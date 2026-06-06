@@ -9,11 +9,7 @@
       "size_mb": 1,
       "release_date": "2026-06-06",
       "update_type": "full",
-      "changelog": [
-        "Первый релиз игры Burmaldacraft",
-        "Добавлены мемные звуки",
-        "Поддержка русского языка"
-      ]
+      "changelog": []
     }
   ]
 }
